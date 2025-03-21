@@ -10,3 +10,5 @@
   - etc
 
 This repo is a demonstration of the issue and provides a demo video showing the issue in detail, found under [static/demo-showing-ic2-multi-module-issue.mov](static/demo-showing-ic2-multi-module-issue.mov)
+
+https://github.com/user-attachments/assets/e727a7ab-9419-4552-aabc-933898ae37a2
