@@ -1,0 +1,13 @@
+/some-java-stuff/.gradle/
+
+.sf/
+.sfdx/
+.localdev/
+/IlluminatedCloud/
+/out/
+target/
+node_modules/
+/.illuminatedCloud/
+**/tsconfig*.json
+**/*.tsbuildinfo
+/some-java-stuff/build/

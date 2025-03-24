@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="IlluminatedCloud" name="Illuminated Cloud">
       <configuration>
-        <option name="connectionName" value="test-jplbqizp5ppj@example.com" />
+        <option name="connectionName" value="some-sf-stuff" />
         <option name="connectionType" value="SFDX" />
       </configuration>
     </facet>
@@ -16,6 +16,8 @@
       <excludeFolder url="file://$MODULE_DIR$/.sf" />
       <excludeFolder url="file://$MODULE_DIR$/.sfdx" />
     </content>
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (ic2-multi-module-issue/some-sf-stuff)" jdkType="IlluminatedCloud" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="ic2-multi-module-issue/lwc_types" level="project" />
   </component>
 </module>
